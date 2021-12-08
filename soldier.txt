@@ -1,0 +1,1 @@
+Surname = Prustypa, Name = Taras, MiddleName = Stepanovuch, CallDate = 26.05.21, Age = 20
